@@ -6,13 +6,13 @@ curl -s https://api.github.com/repos/ibm-developer-skills-network/mcino-Introduc
     "id": 123456789,
     "html_url": "https://github.com/ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub/pull/1",
     "state": "open",
-    "title": "Fix typo in documentation",
+    "title": "Bug fix revert",
     "user": {
-      "login": "vrerkin"
+      "login": "vrerkin-hub"
     },
     "head": {
-      "label": "vrerkin:bug-fix-typo",
-      "ref": "bug-fix-typo"
+      "label": "vrerkin-hub:bug-fix-revert",
+      "ref": "bug-fix-revert"
     },
     "base": {
       "label": "ibm-developer-skills-network:main",
